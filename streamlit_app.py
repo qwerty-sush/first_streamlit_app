@@ -1,4 +1,5 @@
 import streamlit
-streamlit.title('YOU ONLY LIVE ONCE')
-streamlit.title('lets celebrate LIFE')
-streamlit.title('yaaaaa ----- hoooooooo******')
+streamlit.header('LIFE')
+streamlit.text('YOU ONLY LIVE ONCE')
+streamlit.text('lets celebrate LIFE')
+streamlit.text('yaaaaa ----- hoooooooo******')
